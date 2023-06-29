@@ -41,4 +41,4 @@ public class Main {
 - `remove(int index)`  : 지정된 인덱스의 요소를 ArrayList에서 제거합니다.
 - `set(int index, E element)`  : 지정된 인덱스의 요소를 바꿉니다.
 - `size()`  : ArrayList의 크기(요소의 수)를 반환합니다.
-- `contains(Object o)` 🟪 : ArrayList가 특정 요소를 포함하고 있는지 확인합니다. 해당 요소가 있으면 true를, 없으면 false를 반환합니다.
+- `contains(Object o)` : ArrayList가 특정 요소를 포함하고 있는지 확인합니다. 해당 요소가 있으면 true를, 없으면 false를 반환합니다.
